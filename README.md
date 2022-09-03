@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 My badge area
 
-![Java](https://img.shields.io/badge/-Java-003f5c?style=for-the-badge&logo=appveyor) ![SPRING BOOT](https://img.shields.io/badge/-SPRING_BOOT-003f5c?style=for-the-badge&logo=appveyor) ![POSTGRES](https://img.shields.io/badge/-POSTGRES-003f5c?style=for-the-badge&logo=appveyor) ![DOCKER](https://img.shields.io/badge/-DOCKER-003f5c?style=for-the-badge&logo=appveyor) ![GIT](https://img.shields.io/badge/-GIT-003f5c?style=for-the-badge&logo=appveyor)
+![Java](https://img.shields.io/badge/-Java-003f5c?style=for-the-badge&logo=appveyor) ![SPRING BOOT](https://img.shields.io/badge/-SPRING_BOOT-003f5c?style=for-the-badge&logo=appveyor) ![POSTGRES](https://img.shields.io/badge/-POSTGRES-003f5c?style=for-the-badge&logo=appveyor) ![DOCKER](https://img.shields.io/badge/-DOCKER-003f5c?style=for-the-badge&logo=appveyor) ![GIT](https://img.shields.io/badge/-GIT-003f5c?style=for-the-badge&logo=appveyor) ![HTML](https://img.shields.io/badge/-HTML-003f5c?style=for-the-badge&logo=appveyor) ![CSS](https://img.shields.io/badge/-CSS-003f5c?style=for-the-badge&logo=appveyor)
 
 Write with me
 
