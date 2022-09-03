@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 My badge area
 
-![Java](https://img.shields.io/badge/-Java-003f5c?style=for-the-badge&logo=appveyor) ![SPRING BOOT](https://img.shields.io/badge/-SPRING BOOT-003f5c?style=for-the-badge&logo=appveyor)
+![Java](https://img.shields.io/badge/-Java-003f5c?style=for-the-badge&logo=appveyor) ![SPRING BOOT](https://img.shields.io/badge/-SPRING_BOOT-003f5c?style=for-the-badge&logo=appveyor)
