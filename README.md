@@ -22,3 +22,6 @@ My badge area
 Write with me
 
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)]([https://vk.com/web.step](https://vk.com/id143555790)) [![Telegram](https://img.shields.io/badge/-Telegram-003f5c?style=for-the-badge&logo=TG)](https://t.me/uncledens)
+
+
+[![Gidrosliv's github stats](https://github-readme-stats.vercel.app/api?username=Gidrosliv)](https://github.com/Gidrosliv/github-readme-stats)
