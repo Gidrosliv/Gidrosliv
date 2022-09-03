@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Denis. I am 25 years old. I'am beginner Java developer
+
 <!--
 **Gidrosliv/Gidrosliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,4 +26,4 @@ Write with me
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)]([https://vk.com/web.step](https://vk.com/id143555790)) [![Telegram](https://img.shields.io/badge/-Telegram-003f5c?style=for-the-badge&logo=TG)](https://t.me/uncledens)
 
 
-[![Gidrosliv's github stats](https://github-readme-stats.vercel.app/api?username=Gidrosliv)](https://github.com/Gidrosliv/github-readme-stats)
+
