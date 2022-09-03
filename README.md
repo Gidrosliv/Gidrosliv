@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Denis. I am 25 years old. I'am beginner Java developer
+My name is Denis. I'am beginner Java developer.
 
 <!--
 **Gidrosliv/Gidrosliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
