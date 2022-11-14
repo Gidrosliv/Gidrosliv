@@ -3,8 +3,7 @@
 
 - Меня зовут Денис Шураков; 
 - Мне 33 года; 
-- Я Java-разработчик;
-- И я это обожаю Java;
+- Я Java-разработчик и я это обожаю;
 
 <!--
 **Gidrosliv/Gidrosliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
