@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Denis. I'am beginner Java developer.
+- My name is Denis. 
+- I'am Java developer.
+- I love learning, especially new things.
 
 <!--
 **Gidrosliv/Gidrosliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
