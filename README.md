@@ -36,7 +36,7 @@ Driven Development) и SOLID (single responsibility, open–closed, Liskov subst
 <br>- [java-Explore-With-Me](https://github.com/devShurakov/java-Explore-With-Me) - REST приложение для поиска, организации событий и участия в них
 <br>- [java-Share-It](https://github.com/devShurakov/java-Share-It) - REST приложение для обмена вещами
 <br>- [java-Filmorate](https://github.com/devShurakov/java-Filmo-Rate) - REST приложение для поиска фильмов. Аналог кинопоиска.
-<br>- [Task-Manager](https://github.com/devShurakov/java-Task-Manager) - REST приложение для управления задачами.
+<br>- [java-Task-Manager](https://github.com/devShurakov/java-Task-Manager) - REST приложение для управления задачами.
 
 ---
 ### Связаться со мной:
